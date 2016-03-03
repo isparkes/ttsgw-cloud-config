@@ -2,3 +2,7 @@
 info:
   foo: zuzuzuzuzuzuzu
   someList: [2, 3, 7]
+
+unit-test:
+  info:
+    foo: zzzzzzzzzzgggg
