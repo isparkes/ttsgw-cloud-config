@@ -1,10 +1,10 @@
 # Config data exposed by config server
 info:
-  foo: ttsgw-zuzuzuzuzuzuzu
+  foo: ttsgw-default
   someList: [2, 3, 7]
 
 ---
 spring:
   profiles: unit-test
 info:
-  foo: ttsgw-zzzzzzzzzzgggg
+  foo: ttsgw-unit-test
