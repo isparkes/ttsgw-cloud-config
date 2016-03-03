@@ -1,0 +1,8 @@
+# Config data exposed by config server
+info:
+  foo: ttsgw-zuzuzuzuzuzuzu
+  someList: [2, 3, 7]
+
+unit-test:
+  info:
+    foo: ttsgw-zzzzzzzzzzgggg
