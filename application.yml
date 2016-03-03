@@ -1,0 +1,4 @@
+# Config data exposed by config server
+info:
+  foo: bong
+  someList: [2, 3, 7]
