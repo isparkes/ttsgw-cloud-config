@@ -3,6 +3,8 @@ info:
   foo: ttsgw-zuzuzuzuzuzuzu
   someList: [2, 3, 7]
 
-unit-test:
-  info:
-    foo: ttsgw-zzzzzzzzzzgggg
+---
+spring:
+  profiles: unit-test
+info:
+  foo: ttsgw-zzzzzzzzzzgggg
