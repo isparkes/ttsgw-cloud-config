@@ -9,8 +9,8 @@ spring:
 sftp:
   host: pi.open-rate.com 
   use-password: true
-  user: user
-  password: pass
+  user: pi
+  password: T1gger123
   port: 22
   remote-path: .
   delete-file-after-transfer: true
