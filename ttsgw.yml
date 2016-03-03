@@ -3,6 +3,14 @@ info:
   foo: ttsgw-default
   someList: [2, 3, 7]
 
+sftp:
+  host: test.ian.com 
+  use-password: true
+  user: user
+  password: pass
+  port: 22
+  remote-path: .
+  delete-file-after-transfer: true
 ---
 spring:
   profiles: unit-test
