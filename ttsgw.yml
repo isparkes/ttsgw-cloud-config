@@ -7,7 +7,7 @@ info:
 spring:
   profiles: cloud
 sftp:
-  host: pi.open-rate.com 
+  host: home.open-rate.com 
   use-password: true
   user: pi
   password: T1gger123
