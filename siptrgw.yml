@@ -1,0 +1,4 @@
+# Config data exposed by config server
+info:
+  foo: siptrgw-config-for-siptrgw-only
+  someList: [2, 3, 7]
