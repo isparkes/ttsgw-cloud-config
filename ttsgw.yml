@@ -8,7 +8,7 @@ spring:
   profiles: cloud
 sftp:
   host: home.open-rate.com 
-  use-password: false
+  use-password: true
   user: pi
   password: T1gg#r123
   port: 22
