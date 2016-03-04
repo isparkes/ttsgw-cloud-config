@@ -12,7 +12,7 @@ spring:
 sftp:
   host: home.open-rate.com 
   use-password: true
-  user: pi
+  user: ian
   password: T1gg#r123
   port: 22
   remote-path: .
