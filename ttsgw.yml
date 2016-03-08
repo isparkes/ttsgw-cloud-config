@@ -2,7 +2,7 @@
 info:
   foo: ttsgw-default
   someList: [2, 3, 7]
-  aaaaaaa: cccccccccccccccccc
+aaaaaaa: cccccccccccccccccc
 
 ---
 spring:
